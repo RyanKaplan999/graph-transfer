@@ -1,3 +1,1 @@
-Code should just run, if you want to try a different TUDataset graph, just swap the name when we first create the dataset near the top of box 4.
-Any of the sets here https://chrsmrrs.github.io/datasets/docs/datasets/ should work, as long as none of the graphs have more than 244 nodes.
-Make sure to use GPU, runs very slowly otherwise.
+Code should run without issue in Google Colab. If you want to try a different TUDataset graph, just swap the name when we first create the dataset near the top of box 4. Any of the sets here https://chrsmrrs.github.io/datasets/docs/datasets/ should work, as long as none of the graphs have more than 244 nodes. Make sure to use GPU, runs very slowly otherwise.
